@@ -5,7 +5,7 @@
 
 # Edit this variable if your release differs from what is shown here:
 
-FREERTOS	?= FreeRTOSv10.0.1
+FREERTOS	?= FreeRTOSv10.3.1
 
 ######################################################################
 #  Internal variables
